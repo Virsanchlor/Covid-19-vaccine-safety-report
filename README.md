@@ -6,33 +6,27 @@ To evaluate the safety of administering a second dose of a COVID-19 mRNA vaccine
 ---
 
 ## 📖 Abstract
-A high-level overview of the study objectives and background.  
-![Abstract Screenshot](figures/abstract.png)
+A sample image of the study objectives and background.  
+![Abstract Screenshot](Figure/abstract.png)
 
 ---
 
 ## ⚙️ Methods
-Summary of the clinical review and approach.  
-![Methods Screenshot](figures/methods.png)
+A sample image of the clinical review and approach.  
+![Methods Screenshot](Figure/methods.png)
 
 ---
 
 ## 📊 Results
-Key findings on patient tolerance, side effects, and outcomes.  
-![Results Screenshot](figures/results.png)
+A sample image of the results from the report.  
+![Results Screenshot](Figure/results.png)
 
 ---
 
-## ✅ Conclusion
-Final recommendations and implications for clinical practice.  
-![Conclusion Screenshot](figures/conclusion.png)
-
----
 
 ## 🔗 Full Report / Webpage
 For a detailed view of the full research, references, and supporting material, visit:  
-[👉 View the complete study here](https://example.com/full-research-link)
+[👉 View the complete study here] (https://clinicaltrials.gov/study/NCT04977479)
 
 ---
 
-## 📂 Repository Structure
